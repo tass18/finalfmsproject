@@ -167,10 +167,7 @@
                             name="admin-password" 
                             placeholder="Enter your password" 
                            
-                       
-                            required 
-                            autocomplete="off" 
-                            aria-label="Enter your password">
+                       >
                     </div>
                     <button type="submit" class="login-btn">LOG IN</button>
                 </form>
