@@ -166,8 +166,8 @@
                             id="admin-password" 
                             name="admin-password" 
                             placeholder="Enter your password" 
-                            minlength="8" 
-                            title="Password must be at least 8 characters long." 
+                           
+                       
                             required 
                             autocomplete="off" 
                             aria-label="Enter your password">
